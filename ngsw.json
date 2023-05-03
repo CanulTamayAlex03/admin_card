@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1683138403825,
+  "timestamp": 1683138925741,
   "index": "https://CanulTamayAlex03.github.io/admin_card/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://CanulTamayAlex03.github.io/admin_card/favicon.ico",
         "https://CanulTamayAlex03.github.io/admin_card/index.html",
-        "https://CanulTamayAlex03.github.io/admin_card/main.837d31527b4b8806.js",
+        "https://CanulTamayAlex03.github.io/admin_card/main.83c74dd139c59c01.js",
         "https://CanulTamayAlex03.github.io/admin_card/manifest.webmanifest",
         "https://CanulTamayAlex03.github.io/admin_card/polyfills.794d7387aea30963.js",
         "https://CanulTamayAlex03.github.io/admin_card/runtime.89bfad0fe920d2c9.js",
@@ -54,8 +54,8 @@
     "https://CanulTamayAlex03.github.io/admin_card/assets/icons/icon-96x96.png": "a6b1753fd309bba44b37e352693befee0656cc34",
     "https://CanulTamayAlex03.github.io/admin_card/assets/logo_jomat.png": "512c018b8459447bd3f516dc54027eed9d1b8797",
     "https://CanulTamayAlex03.github.io/admin_card/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://CanulTamayAlex03.github.io/admin_card/index.html": "7e52c3ace952b7e1cf2c87725de07ad6307edcfa",
-    "https://CanulTamayAlex03.github.io/admin_card/main.837d31527b4b8806.js": "4308d61daf8c2d1bfb9a92d7023e8204a91070f3",
+    "https://CanulTamayAlex03.github.io/admin_card/index.html": "3d53d57c33de7c62868c055e0ede9d2a53c28437",
+    "https://CanulTamayAlex03.github.io/admin_card/main.83c74dd139c59c01.js": "a8541c62e57bb6da08590ed0e01859506cd0762e",
     "https://CanulTamayAlex03.github.io/admin_card/manifest.webmanifest": "032b54331eee7709590a17a31e2fb5f0b1dcf1b9",
     "https://CanulTamayAlex03.github.io/admin_card/polyfills.794d7387aea30963.js": "0b5d2ac7f91a9b9cac378b1b551f7bce1d1cfa4d",
     "https://CanulTamayAlex03.github.io/admin_card/runtime.89bfad0fe920d2c9.js": "cedf50c3e04737c71d8b05b4d80ec9ba64003b4d",

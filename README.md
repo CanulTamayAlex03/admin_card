@@ -1,6 +1,6 @@
 ## Code JomatBC | Admin-version
 
-Version de angunlar: [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+Version de angular: [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 <h2> Development server </h2>
 
